@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Kontur_android_test_task"
